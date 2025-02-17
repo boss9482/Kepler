@@ -1,0 +1,3 @@
+pandas
+kepler.gl
+streamlit_keplergl
